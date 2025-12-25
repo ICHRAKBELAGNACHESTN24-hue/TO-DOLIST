@@ -22,13 +22,4 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
-# Node
-node_modules/
-npm-debug.log*
-yarn-error.log*
 
-# Angular / Frontend
-dist/
-
-# Environment
-.env
